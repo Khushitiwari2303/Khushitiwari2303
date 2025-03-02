@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Khushitiwari2303
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Khushitiwari23
+- 👀 I’m interested in Software Development 
+- 🌱 I’m currently learning DSA 
 - 📫 How to reach me https://www.linkedin.com/in/khushi-tiwari-24b96a251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: Her.
 - ⚡ Fun fact: Listening Music And Write Code
