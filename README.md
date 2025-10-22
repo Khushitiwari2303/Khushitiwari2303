@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Khushitiwari23
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning DSA 
+- 👋 Hi, I’m @Khushitiwari
+- 👀 Working as a Software Developmer.  
+- 🌱 I’m currently working on MERN. 
 - 📫 How to reach me https://www.linkedin.com/in/khushi-tiwari-24b96a251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 😄 Pronouns: Her.
 - ⚡ Fun fact: Listening Music And Write Code
 
 <!---
